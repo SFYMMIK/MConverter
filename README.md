@@ -17,7 +17,7 @@ This is a simple Minimalistic audio converter tool created by Szymon Grajner[Me]
 1. Clone or download this repository to your local machine.
 2. Ensure you have Python 3.x installed.
 3. Install the required dependencies by running: pip install pydub (if you are haveing trouble try : pip install pydub --break-system-packages)
-   4. Run the program by executing `audio_converter.py`.
+   4. Run the program by executing `MConverter.py`.
 5. Follow the prompts to select single or multiple files for conversion, specify the input/output formats, and directories.
 
 ## Disclaimer
