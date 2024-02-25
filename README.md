@@ -9,8 +9,13 @@ This is a simple Minimalistic audio converter tool created by Szymon Grajner[Me]
 - Provides feedback during conversion with a progress animation
 - Easy to use command-line interface
 
-## Requirements
-- Python 3.x
+## Linux Usage
+- Python 3.8 or higher
+- pydub library (`pip3 install pydub`)
+
+## WIndows Usage
+- Python 3.8 or higher
+- ffmpeg
 - pydub library (`pip install pydub`)
 
 ## Usage
